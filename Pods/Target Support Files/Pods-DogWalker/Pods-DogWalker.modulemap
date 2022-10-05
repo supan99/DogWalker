@@ -1,0 +1,6 @@
+framework module Pods_DogWalker {
+  umbrella header "Pods-DogWalker-umbrella.h"
+
+  export *
+  module * { export * }
+}

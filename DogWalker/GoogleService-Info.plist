@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>611084270089-u8igbllugt0ro250l0baskot75kccgpq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.611084270089-u8igbllugt0ro250l0baskot75kccgpq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>611084270089-u8j9tef7q4p0rt9bkb8bldr4aclkuffs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZnRCMEnpFFw4CEjVbbtfiAoHm8mnlk54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>611084270089</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dogWalker</string>
+	<key>PROJECT_ID</key>
+	<string>dogwalkerapp-64ed7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dogwalkerapp-64ed7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:611084270089:ios:b22171a1ecf3e7eb6c96d8</string>
+</dict>
+</plist>

@@ -1,0 +1,83 @@
+//
+//  String.swift
+
+
+import Foundation
+
+
+struct STRING {
+    static let errorName = "Please enter name"
+    static let errorValidUserName = "Please enter valid user name"
+    static let errorPassword = "Please enter password"
+    static let errorValidPassword = "Please enter valid password"
+    static let errorEmail = "Please enter email"
+    static let errorValidEmail = "Please enter valid email"
+    static let errorAge = "Please enter age"
+    static let errorExp = "Please enter experience"
+    static let errorHourlyRate = "Please enter hourly rate"
+    static let errorTiming = "Please enter timing"
+    static let errorTimingFrom = "Please enter from date"
+    static let errorTimingTo = "Please enter to date"
+    static let errorDescription = "Please enter description"
+    static let errorAddress = "Please enter address"
+    static let errorConfirmPassword = "Please enter confirm password"
+    static let errorPasswordMismatch = "Password mismatch"
+    static let errorCheckBox = "Please agree to terms and conditions"
+    static let errorValidCreatePassword = "Password must contain (1upper 1lower 1special 1numeric)"
+    static let errorValidOtp = "Please enter otp"
+    static let errorPasswordCount = "Please enter password with atleast 8 characters"
+    static let errorProfile = "Please select image"
+}
+
+let dUser       = "users"
+let dDogOwner   = "DogOwner"
+let dDogWalker  = "DogWalker"
+let dOwnerRequest = "OwnerRequest"
+let dName       = "name"
+let dEmail      = "email"
+let dExp        = "experience"
+let dId         = "id"
+let dIsEnable   = "isEnable"
+let dLat        = "lat" // = -1.2975733
+let dLng        = "lng" //36.871645
+let dRating     = "rating"
+let dReserved   = "reserved"
+let dIsReserved   = "isReserved"
+let dTiming     = "timing"
+let dTimingFrom = "timingFrom"
+let dTimingTo   = "timingTo"
+let dType       = "type"
+let dUser_description = "user_description"
+let dUser_email = "user_email"
+let dUser_id    = "user_id"
+let dUser_hourly_rate = "user_hourly_rate"
+let dUser_image = "user_image"
+let dUser_name  = "user_name"
+let dUser_address    = "user_address"
+let dUser_age   = "user_age"
+let dUser_password = "user_password"
+let dCity       = "city"
+let dState      = "state"
+let dZipcode    = "zipcode"
+let dPassword   = "password"
+let dImage      = "imagePath"
+let dDescription = "description"
+let docID       = "docID"
+let dFavourite  = "favourite"
+let dOrderID    = "order_id"
+let dOrderDate  = "order_date"
+let dOrderType  = "orderType"
+let dOrderTime  = "order_time"
+let dStatus     = "status"
+let dTotal_cost = "total_cost"
+let dTotal_time = "total_time"
+let dWalker_id  = "walker_id"
+let dAddress    = "address"
+let dPaymentStatus = "paymentStatus"
+let dWalkerRequest = "WalkerRequest"
+
+
+
+let dPending    = "pending"
+let dAccepted   = "accepted"
+let dRejected   = "rejected"
